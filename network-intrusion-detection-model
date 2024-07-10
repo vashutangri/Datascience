@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "80095cd7",
+   "id": "d063c472",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:34.510974Z",
-     "iopub.status.busy": "2024-07-10T04:21:34.510421Z",
-     "iopub.status.idle": "2024-07-10T04:21:35.391605Z",
-     "shell.execute_reply": "2024-07-10T04:21:35.390234Z"
+     "iopub.execute_input": "2024-07-10T08:58:23.962563Z",
+     "iopub.status.busy": "2024-07-10T08:58:23.962032Z",
+     "iopub.status.idle": "2024-07-10T08:58:24.902547Z",
+     "shell.execute_reply": "2024-07-10T08:58:24.900966Z"
     },
     "papermill": {
-     "duration": 0.892666,
-     "end_time": "2024-07-10T04:21:35.394368",
+     "duration": 0.963323,
+     "end_time": "2024-07-10T08:58:24.905474",
      "exception": false,
-     "start_time": "2024-07-10T04:21:34.501702",
+     "start_time": "2024-07-10T08:58:23.942151",
      "status": "completed"
     },
     "tags": []
@@ -57,19 +57,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "3b0d79a8",
+   "id": "df45e27a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:35.409470Z",
-     "iopub.status.busy": "2024-07-10T04:21:35.408984Z",
-     "iopub.status.idle": "2024-07-10T04:21:43.849509Z",
-     "shell.execute_reply": "2024-07-10T04:21:43.848575Z"
+     "iopub.execute_input": "2024-07-10T08:58:24.939917Z",
+     "iopub.status.busy": "2024-07-10T08:58:24.939368Z",
+     "iopub.status.idle": "2024-07-10T08:58:34.330225Z",
+     "shell.execute_reply": "2024-07-10T08:58:34.328907Z"
     },
     "papermill": {
-     "duration": 8.450555,
-     "end_time": "2024-07-10T04:21:43.852147",
+     "duration": 9.411576,
+     "end_time": "2024-07-10T08:58:34.333214",
      "exception": false,
-     "start_time": "2024-07-10T04:21:35.401592",
+     "start_time": "2024-07-10T08:58:24.921638",
      "status": "completed"
     },
     "tags": []
@@ -86,19 +86,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "6c2b37f5",
+   "id": "08f01fba",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:43.866688Z",
-     "iopub.status.busy": "2024-07-10T04:21:43.865972Z",
-     "iopub.status.idle": "2024-07-10T04:21:43.967851Z",
-     "shell.execute_reply": "2024-07-10T04:21:43.966723Z"
+     "iopub.execute_input": "2024-07-10T08:58:34.368360Z",
+     "iopub.status.busy": "2024-07-10T08:58:34.367274Z",
+     "iopub.status.idle": "2024-07-10T08:58:34.478728Z",
+     "shell.execute_reply": "2024-07-10T08:58:34.477560Z"
     },
     "papermill": {
-     "duration": 0.111759,
-     "end_time": "2024-07-10T04:21:43.970299",
+     "duration": 0.131936,
+     "end_time": "2024-07-10T08:58:34.481574",
      "exception": false,
-     "start_time": "2024-07-10T04:21:43.858540",
+     "start_time": "2024-07-10T08:58:34.349638",
      "status": "completed"
     },
     "tags": []
@@ -533,19 +533,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "ff8e350e",
+   "id": "fb327e72",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:43.986262Z",
-     "iopub.status.busy": "2024-07-10T04:21:43.985480Z",
-     "iopub.status.idle": "2024-07-10T04:21:43.991215Z",
-     "shell.execute_reply": "2024-07-10T04:21:43.990155Z"
+     "iopub.execute_input": "2024-07-10T08:58:34.518030Z",
+     "iopub.status.busy": "2024-07-10T08:58:34.516562Z",
+     "iopub.status.idle": "2024-07-10T08:58:34.523847Z",
+     "shell.execute_reply": "2024-07-10T08:58:34.522373Z"
     },
     "papermill": {
-     "duration": 0.016311,
-     "end_time": "2024-07-10T04:21:43.993593",
+     "duration": 0.028268,
+     "end_time": "2024-07-10T08:58:34.526592",
      "exception": false,
-     "start_time": "2024-07-10T04:21:43.977282",
+     "start_time": "2024-07-10T08:58:34.498324",
      "status": "completed"
     },
     "tags": []
@@ -566,19 +566,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "cf0c8bf3",
+   "id": "8b6dbb20",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:44.010203Z",
-     "iopub.status.busy": "2024-07-10T04:21:44.009374Z",
-     "iopub.status.idle": "2024-07-10T04:21:44.111918Z",
-     "shell.execute_reply": "2024-07-10T04:21:44.110876Z"
+     "iopub.execute_input": "2024-07-10T08:58:34.563330Z",
+     "iopub.status.busy": "2024-07-10T08:58:34.562896Z",
+     "iopub.status.idle": "2024-07-10T08:58:34.671441Z",
+     "shell.execute_reply": "2024-07-10T08:58:34.670280Z"
     },
     "papermill": {
-     "duration": 0.113469,
-     "end_time": "2024-07-10T04:21:44.114280",
+     "duration": 0.130459,
+     "end_time": "2024-07-10T08:58:34.674162",
      "exception": false,
-     "start_time": "2024-07-10T04:21:44.000811",
+     "start_time": "2024-07-10T08:58:34.543703",
      "status": "completed"
     },
     "tags": []
@@ -1015,19 +1015,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "e9b4f840",
+   "id": "50d25698",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:44.132460Z",
-     "iopub.status.busy": "2024-07-10T04:21:44.131504Z",
-     "iopub.status.idle": "2024-07-10T04:21:44.206178Z",
-     "shell.execute_reply": "2024-07-10T04:21:44.205102Z"
+     "iopub.execute_input": "2024-07-10T08:58:34.711602Z",
+     "iopub.status.busy": "2024-07-10T08:58:34.711149Z",
+     "iopub.status.idle": "2024-07-10T08:58:34.788578Z",
+     "shell.execute_reply": "2024-07-10T08:58:34.787396Z"
     },
     "papermill": {
-     "duration": 0.086472,
-     "end_time": "2024-07-10T04:21:44.208616",
+     "duration": 0.099275,
+     "end_time": "2024-07-10T08:58:34.791197",
      "exception": false,
-     "start_time": "2024-07-10T04:21:44.122144",
+     "start_time": "2024-07-10T08:58:34.691922",
      "status": "completed"
     },
     "tags": []
@@ -1465,19 +1465,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "e9a19266",
+   "id": "a5ecb55e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:44.227369Z",
-     "iopub.status.busy": "2024-07-10T04:21:44.227000Z",
-     "iopub.status.idle": "2024-07-10T04:21:44.244991Z",
-     "shell.execute_reply": "2024-07-10T04:21:44.243896Z"
+     "iopub.execute_input": "2024-07-10T08:58:34.832273Z",
+     "iopub.status.busy": "2024-07-10T08:58:34.831259Z",
+     "iopub.status.idle": "2024-07-10T08:58:34.851668Z",
+     "shell.execute_reply": "2024-07-10T08:58:34.850477Z"
     },
     "papermill": {
-     "duration": 0.031214,
-     "end_time": "2024-07-10T04:21:44.248435",
+     "duration": 0.045445,
+     "end_time": "2024-07-10T08:58:34.855132",
      "exception": false,
-     "start_time": "2024-07-10T04:21:44.217221",
+     "start_time": "2024-07-10T08:58:34.809687",
      "status": "completed"
     },
     "tags": []
@@ -1983,19 +1983,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "f8833a53",
+   "id": "6bb7aeff",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:44.270512Z",
-     "iopub.status.busy": "2024-07-10T04:21:44.269567Z",
-     "iopub.status.idle": "2024-07-10T04:21:44.508649Z",
-     "shell.execute_reply": "2024-07-10T04:21:44.507619Z"
+     "iopub.execute_input": "2024-07-10T08:58:34.895961Z",
+     "iopub.status.busy": "2024-07-10T08:58:34.895574Z",
+     "iopub.status.idle": "2024-07-10T08:58:35.126380Z",
+     "shell.execute_reply": "2024-07-10T08:58:35.125162Z"
     },
     "papermill": {
-     "duration": 0.25248,
-     "end_time": "2024-07-10T04:21:44.511340",
+     "duration": 0.254506,
+     "end_time": "2024-07-10T08:58:35.129425",
      "exception": false,
-     "start_time": "2024-07-10T04:21:44.258860",
+     "start_time": "2024-07-10T08:58:34.874919",
      "status": "completed"
     },
     "tags": []
@@ -2425,19 +2425,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "95e9e0e3",
+   "id": "eb5365b5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:44.533355Z",
-     "iopub.status.busy": "2024-07-10T04:21:44.532991Z",
-     "iopub.status.idle": "2024-07-10T04:21:44.735856Z",
-     "shell.execute_reply": "2024-07-10T04:21:44.734856Z"
+     "iopub.execute_input": "2024-07-10T08:58:35.173487Z",
+     "iopub.status.busy": "2024-07-10T08:58:35.173035Z",
+     "iopub.status.idle": "2024-07-10T08:58:35.352568Z",
+     "shell.execute_reply": "2024-07-10T08:58:35.351333Z"
     },
     "papermill": {
-     "duration": 0.216769,
-     "end_time": "2024-07-10T04:21:44.738391",
+     "duration": 0.204705,
+     "end_time": "2024-07-10T08:58:35.355346",
      "exception": false,
-     "start_time": "2024-07-10T04:21:44.521622",
+     "start_time": "2024-07-10T08:58:35.150641",
      "status": "completed"
     },
     "tags": []
@@ -2488,953 +2488,222 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "7dd12112",
+   "id": "999e42a1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:44.761852Z",
-     "iopub.status.busy": "2024-07-10T04:21:44.761074Z",
-     "iopub.status.idle": "2024-07-10T04:21:44.989930Z",
-     "shell.execute_reply": "2024-07-10T04:21:44.988804Z"
+     "iopub.execute_input": "2024-07-10T08:58:35.398709Z",
+     "iopub.status.busy": "2024-07-10T08:58:35.397553Z",
+     "iopub.status.idle": "2024-07-10T08:58:35.507320Z",
+     "shell.execute_reply": "2024-07-10T08:58:35.505307Z"
     },
     "papermill": {
-     "duration": 0.243428,
-     "end_time": "2024-07-10T04:21:44.992618",
+     "duration": 0.134777,
+     "end_time": "2024-07-10T08:58:35.510630",
      "exception": false,
-     "start_time": "2024-07-10T04:21:44.749190",
+     "start_time": "2024-07-10T08:58:35.375853",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Flow Bytes/s  ->  6796     NaN\n",
+      "14739    NaN\n",
+      "15047    NaN\n",
+      "209728   NaN\n",
+      "12824    NaN\n",
+      "12827    NaN\n",
+      "14192    NaN\n",
+      "40707    NaN\n",
+      "52456    NaN\n",
+      "56603    NaN\n",
+      "76549    NaN\n",
+      "76773    NaN\n",
+      "225846   NaN\n",
+      "237968   NaN\n",
+      "238016   NaN\n",
+      "239586   NaN\n",
+      "253214   NaN\n",
+      "259076   NaN\n",
+      "259682   NaN\n",
+      "10832    NaN\n",
+      "20901    NaN\n",
+      "23789    NaN\n",
+      "26374    NaN\n",
+      "34541    NaN\n",
+      "36102    NaN\n",
+      "36883    NaN\n",
+      "39729    NaN\n",
+      "49812    NaN\n",
+      "57793    NaN\n",
+      "63707    NaN\n",
+      "70816    NaN\n",
+      "87757    NaN\n",
+      "107340   NaN\n",
+      "120282   NaN\n",
+      "122940   NaN\n",
+      "126281   NaN\n",
+      "126402   NaN\n",
+      "130158   NaN\n",
+      "131386   NaN\n",
+      "131841   NaN\n",
+      "131982   NaN\n",
+      "135275   NaN\n",
+      "158875   NaN\n",
+      "164857   NaN\n",
+      "171777   NaN\n",
+      "180400   NaN\n",
+      "189205   NaN\n",
+      "Name: Flow Bytes/s, dtype: float64\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "/tmp/ipykernel_18/3928646995.py:4: FutureWarning: errors='ignore' is deprecated and will raise in a future version. Use to_numeric without passing `errors` and catch exceptions explicitly instead\n",
+      "  a = pd.to_numeric(final_cicids[cols], errors='ignore')#converts values into numeric, '1.0' to 1.0 and 'abc' and np.inf to NaN\n"
+     ]
+    }
+   ],
+   "source": [
+    "for cols in final_cicids.columns:\n",
+    "    if( cols == \" Label\" ):\n",
+    "        continue\n",
+    "    a = pd.to_numeric(final_cicids[cols], errors='ignore')#converts values into numeric, '1.0' to 1.0 and 'abc' and np.inf to NaN\n",
+    "    idx = a.isna()\n",
+    "    x = final_cicids[idx][cols]\n",
+    "    if( x.empty == False ):\n",
+    "        print(cols,\" -> \",final_cicids[idx][cols])\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "b14f2dcd",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:58:35.553948Z",
+     "iopub.status.busy": "2024-07-10T08:58:35.553520Z",
+     "iopub.status.idle": "2024-07-10T08:58:36.810518Z",
+     "shell.execute_reply": "2024-07-10T08:58:36.809278Z"
+    },
+    "papermill": {
+     "duration": 1.281842,
+     "end_time": "2024-07-10T08:58:36.813300",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:35.531458",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(703245, 78)\n"
+     ]
+    }
+   ],
+   "source": [
+    "#replacing infinte to Nan, then will replace Nan with mode/mean\n",
+    "final_cicids.replace([np.inf, -np.inf], np.nan, inplace=True)\n",
+    "\n",
+    "\n",
+    "#Drop the columns which have more than 25% NaN or NULL values\n",
+    "perc = 25.0\n",
+    "min_count =  int(((100-perc)/100)*final_cicids.shape[0] + 1)\n",
+    "final_cicids.dropna( axis=1, thresh=min_count, inplace=True)\n",
+    "print(final_cicids.shape)\n",
+    "\n",
+    "# replace NaN/NULL values in other columns with the average( or most repetitive) value of the corresponding column.\n",
+    "for cols in final_cicids.columns:\n",
+    "    if( cols == \" Label\" ):\n",
+    "        continue\n",
+    "    final_cicids[cols] = final_cicids[cols].fillna(final_cicids[cols].mean())\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "676d09b1",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:58:36.856730Z",
+     "iopub.status.busy": "2024-07-10T08:58:36.855762Z",
+     "iopub.status.idle": "2024-07-10T08:58:36.892483Z",
+     "shell.execute_reply": "2024-07-10T08:58:36.891562Z"
+    },
+    "papermill": {
+     "duration": 0.061474,
+     "end_time": "2024-07-10T08:58:36.895296",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:36.833822",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
    "source": [
-    "final_cicids[' Label'] = final_cicids[' Label'].replace({'ATTACK': 1, 'BENIGN': 0})"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 11,
-   "id": "2ed0bd30",
-   "metadata": {
-    "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:45.016167Z",
-     "iopub.status.busy": "2024-07-10T04:21:45.015203Z",
-     "iopub.status.idle": "2024-07-10T04:21:46.875362Z",
-     "shell.execute_reply": "2024-07-10T04:21:46.874250Z"
-    },
-    "papermill": {
-     "duration": 1.875144,
-     "end_time": "2024-07-10T04:21:46.878400",
-     "exception": false,
-     "start_time": "2024-07-10T04:21:45.003256",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [
-    {
-     "data": {
-      "text/html": [
-       "<div>\n",
-       "<style scoped>\n",
-       "    .dataframe tbody tr th:only-of-type {\n",
-       "        vertical-align: middle;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe tbody tr th {\n",
-       "        vertical-align: top;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe thead th {\n",
-       "        text-align: right;\n",
-       "    }\n",
-       "</style>\n",
-       "<table border=\"1\" class=\"dataframe\">\n",
-       "  <thead>\n",
-       "    <tr style=\"text-align: right;\">\n",
-       "      <th></th>\n",
-       "      <th>Flow Duration</th>\n",
-       "      <th>Total Fwd Packets</th>\n",
-       "      <th>Total Backward Packets</th>\n",
-       "      <th>Total Length of Fwd Packets</th>\n",
-       "      <th>Total Length of Bwd Packets</th>\n",
-       "      <th>Fwd Packet Length Max</th>\n",
-       "      <th>Fwd Packet Length Min</th>\n",
-       "      <th>Fwd Packet Length Mean</th>\n",
-       "      <th>Fwd Packet Length Std</th>\n",
-       "      <th>Bwd Packet Length Max</th>\n",
-       "      <th>...</th>\n",
-       "      <th>min_seg_size_forward</th>\n",
-       "      <th>Active Mean</th>\n",
-       "      <th>Active Std</th>\n",
-       "      <th>Active Max</th>\n",
-       "      <th>Active Min</th>\n",
-       "      <th>Idle Mean</th>\n",
-       "      <th>Idle Std</th>\n",
-       "      <th>Idle Max</th>\n",
-       "      <th>Idle Min</th>\n",
-       "      <th>Label</th>\n",
-       "    </tr>\n",
-       "  </thead>\n",
-       "  <tbody>\n",
-       "    <tr>\n",
-       "      <th>0</th>\n",
-       "      <td>3</td>\n",
-       "      <td>2</td>\n",
-       "      <td>0</td>\n",
-       "      <td>12</td>\n",
-       "      <td>0</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>1</th>\n",
-       "      <td>109</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>6</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2</th>\n",
-       "      <td>52</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>6</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>3</th>\n",
-       "      <td>34</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>6</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>4</th>\n",
-       "      <td>3</td>\n",
-       "      <td>2</td>\n",
-       "      <td>0</td>\n",
-       "      <td>12</td>\n",
-       "      <td>0</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>...</th>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>191028</th>\n",
-       "      <td>61452</td>\n",
-       "      <td>4</td>\n",
-       "      <td>2</td>\n",
-       "      <td>180</td>\n",
-       "      <td>354</td>\n",
-       "      <td>45</td>\n",
-       "      <td>45</td>\n",
-       "      <td>45.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>177</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>191029</th>\n",
-       "      <td>171</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2</td>\n",
-       "      <td>80</td>\n",
-       "      <td>272</td>\n",
-       "      <td>40</td>\n",
-       "      <td>40</td>\n",
-       "      <td>40.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>136</td>\n",
-       "      <td>...</td>\n",
-       "      <td>32</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>191030</th>\n",
-       "      <td>222</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2</td>\n",
-       "      <td>90</td>\n",
-       "      <td>354</td>\n",
-       "      <td>45</td>\n",
-       "      <td>45</td>\n",
-       "      <td>45.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>177</td>\n",
-       "      <td>...</td>\n",
-       "      <td>32</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>191031</th>\n",
-       "      <td>16842</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>48</td>\n",
-       "      <td>48</td>\n",
-       "      <td>48</td>\n",
-       "      <td>48</td>\n",
-       "      <td>48.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>48</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>191032</th>\n",
-       "      <td>153</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2</td>\n",
-       "      <td>68</td>\n",
-       "      <td>100</td>\n",
-       "      <td>34</td>\n",
-       "      <td>34</td>\n",
-       "      <td>34.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>50</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "  </tbody>\n",
-       "</table>\n",
-       "<p>703245 rows × 78 columns</p>\n",
-       "</div>"
-      ],
-      "text/plain": [
-       "         Flow Duration   Total Fwd Packets   Total Backward Packets  \\\n",
-       "0                    3                   2                        0   \n",
-       "1                  109                   1                        1   \n",
-       "2                   52                   1                        1   \n",
-       "3                   34                   1                        1   \n",
-       "4                    3                   2                        0   \n",
-       "...                ...                 ...                      ...   \n",
-       "191028           61452                   4                        2   \n",
-       "191029             171                   2                        2   \n",
-       "191030             222                   2                        2   \n",
-       "191031           16842                   1                        1   \n",
-       "191032             153                   2                        2   \n",
-       "\n",
-       "        Total Length of Fwd Packets   Total Length of Bwd Packets  \\\n",
-       "0                                12                             0   \n",
-       "1                                 6                             6   \n",
-       "2                                 6                             6   \n",
-       "3                                 6                             6   \n",
-       "4                                12                             0   \n",
-       "...                             ...                           ...   \n",
-       "191028                          180                           354   \n",
-       "191029                           80                           272   \n",
-       "191030                           90                           354   \n",
-       "191031                           48                            48   \n",
-       "191032                           68                           100   \n",
-       "\n",
-       "         Fwd Packet Length Max   Fwd Packet Length Min  \\\n",
-       "0                            6                       6   \n",
-       "1                            6                       6   \n",
-       "2                            6                       6   \n",
-       "3                            6                       6   \n",
-       "4                            6                       6   \n",
-       "...                        ...                     ...   \n",
-       "191028                      45                      45   \n",
-       "191029                      40                      40   \n",
-       "191030                      45                      45   \n",
-       "191031                      48                      48   \n",
-       "191032                      34                      34   \n",
-       "\n",
-       "         Fwd Packet Length Mean   Fwd Packet Length Std  \\\n",
-       "0                           6.0                     0.0   \n",
-       "1                           6.0                     0.0   \n",
-       "2                           6.0                     0.0   \n",
-       "3                           6.0                     0.0   \n",
-       "4                           6.0                     0.0   \n",
-       "...                         ...                     ...   \n",
-       "191028                     45.0                     0.0   \n",
-       "191029                     40.0                     0.0   \n",
-       "191030                     45.0                     0.0   \n",
-       "191031                     48.0                     0.0   \n",
-       "191032                     34.0                     0.0   \n",
-       "\n",
-       "        Bwd Packet Length Max  ...   min_seg_size_forward  Active Mean  \\\n",
-       "0                           0  ...                     20          0.0   \n",
-       "1                           6  ...                     20          0.0   \n",
-       "2                           6  ...                     20          0.0   \n",
-       "3                           6  ...                     20          0.0   \n",
-       "4                           0  ...                     20          0.0   \n",
-       "...                       ...  ...                    ...          ...   \n",
-       "191028                    177  ...                     20          0.0   \n",
-       "191029                    136  ...                     32          0.0   \n",
-       "191030                    177  ...                     32          0.0   \n",
-       "191031                     48  ...                     20          0.0   \n",
-       "191032                     50  ...                     20          0.0   \n",
-       "\n",
-       "         Active Std   Active Max   Active Min  Idle Mean   Idle Std  \\\n",
-       "0               0.0            0            0        0.0        0.0   \n",
-       "1               0.0            0            0        0.0        0.0   \n",
-       "2               0.0            0            0        0.0        0.0   \n",
-       "3               0.0            0            0        0.0        0.0   \n",
-       "4               0.0            0            0        0.0        0.0   \n",
-       "...             ...          ...          ...        ...        ...   \n",
-       "191028          0.0            0            0        0.0        0.0   \n",
-       "191029          0.0            0            0        0.0        0.0   \n",
-       "191030          0.0            0            0        0.0        0.0   \n",
-       "191031          0.0            0            0        0.0        0.0   \n",
-       "191032          0.0            0            0        0.0        0.0   \n",
-       "\n",
-       "         Idle Max   Idle Min   Label  \n",
-       "0               0          0       0  \n",
-       "1               0          0       0  \n",
-       "2               0          0       0  \n",
-       "3               0          0       0  \n",
-       "4               0          0       0  \n",
-       "...           ...        ...     ...  \n",
-       "191028          0          0       0  \n",
-       "191029          0          0       0  \n",
-       "191030          0          0       0  \n",
-       "191031          0          0       0  \n",
-       "191032          0          0       0  \n",
-       "\n",
-       "[703245 rows x 78 columns]"
-      ]
-     },
-     "execution_count": 11,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "from sklearn.preprocessing import LabelEncoder\n",
-    "\n",
-    "label_encoder = LabelEncoder()\n",
-    "\n",
-    "# Iterate through each column\n",
-    "for col in final_cicids.columns:\n",
-    "    if final_cicids[col].dtype == 'object':  # Check if column is categorical\n",
-    "        final_cicids[col] = label_encoder.fit_transform(final_cicids[col].astype(str))\n",
-    "\n",
-    "final_cicids"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 12,
-   "id": "5bbcab6c",
-   "metadata": {
-    "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:46.902425Z",
-     "iopub.status.busy": "2024-07-10T04:21:46.901719Z",
-     "iopub.status.idle": "2024-07-10T04:21:47.411583Z",
-     "shell.execute_reply": "2024-07-10T04:21:47.410504Z"
-    },
-    "papermill": {
-     "duration": 0.524942,
-     "end_time": "2024-07-10T04:21:47.414424",
-     "exception": false,
-     "start_time": "2024-07-10T04:21:46.889482",
-     "status": "completed"
-    },
-    "tags": []
-   },
-   "outputs": [
-    {
-     "name": "stderr",
-     "output_type": "stream",
-     "text": [
-      "/tmp/ipykernel_18/3340867280.py:9: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.\n",
-      "The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.\n",
-      "\n",
-      "For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.\n",
-      "\n",
-      "\n",
-      "  final_cicids[col].fillna(column_average, inplace=True)\n"
-     ]
-    },
-    {
-     "data": {
-      "text/html": [
-       "<div>\n",
-       "<style scoped>\n",
-       "    .dataframe tbody tr th:only-of-type {\n",
-       "        vertical-align: middle;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe tbody tr th {\n",
-       "        vertical-align: top;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe thead th {\n",
-       "        text-align: right;\n",
-       "    }\n",
-       "</style>\n",
-       "<table border=\"1\" class=\"dataframe\">\n",
-       "  <thead>\n",
-       "    <tr style=\"text-align: right;\">\n",
-       "      <th></th>\n",
-       "      <th>Flow Duration</th>\n",
-       "      <th>Total Fwd Packets</th>\n",
-       "      <th>Total Backward Packets</th>\n",
-       "      <th>Total Length of Fwd Packets</th>\n",
-       "      <th>Total Length of Bwd Packets</th>\n",
-       "      <th>Fwd Packet Length Max</th>\n",
-       "      <th>Fwd Packet Length Min</th>\n",
-       "      <th>Fwd Packet Length Mean</th>\n",
-       "      <th>Fwd Packet Length Std</th>\n",
-       "      <th>Bwd Packet Length Max</th>\n",
-       "      <th>...</th>\n",
-       "      <th>min_seg_size_forward</th>\n",
-       "      <th>Active Mean</th>\n",
-       "      <th>Active Std</th>\n",
-       "      <th>Active Max</th>\n",
-       "      <th>Active Min</th>\n",
-       "      <th>Idle Mean</th>\n",
-       "      <th>Idle Std</th>\n",
-       "      <th>Idle Max</th>\n",
-       "      <th>Idle Min</th>\n",
-       "      <th>Label</th>\n",
-       "    </tr>\n",
-       "  </thead>\n",
-       "  <tbody>\n",
-       "    <tr>\n",
-       "      <th>0</th>\n",
-       "      <td>3</td>\n",
-       "      <td>2</td>\n",
-       "      <td>0</td>\n",
-       "      <td>12</td>\n",
-       "      <td>0</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>1</th>\n",
-       "      <td>109</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>6</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2</th>\n",
-       "      <td>52</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>6</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>3</th>\n",
-       "      <td>34</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>6</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>4</th>\n",
-       "      <td>3</td>\n",
-       "      <td>2</td>\n",
-       "      <td>0</td>\n",
-       "      <td>12</td>\n",
-       "      <td>0</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6</td>\n",
-       "      <td>6.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>...</th>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "      <td>...</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>191028</th>\n",
-       "      <td>61452</td>\n",
-       "      <td>4</td>\n",
-       "      <td>2</td>\n",
-       "      <td>180</td>\n",
-       "      <td>354</td>\n",
-       "      <td>45</td>\n",
-       "      <td>45</td>\n",
-       "      <td>45.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>177</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>191029</th>\n",
-       "      <td>171</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2</td>\n",
-       "      <td>80</td>\n",
-       "      <td>272</td>\n",
-       "      <td>40</td>\n",
-       "      <td>40</td>\n",
-       "      <td>40.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>136</td>\n",
-       "      <td>...</td>\n",
-       "      <td>32</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>191030</th>\n",
-       "      <td>222</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2</td>\n",
-       "      <td>90</td>\n",
-       "      <td>354</td>\n",
-       "      <td>45</td>\n",
-       "      <td>45</td>\n",
-       "      <td>45.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>177</td>\n",
-       "      <td>...</td>\n",
-       "      <td>32</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>191031</th>\n",
-       "      <td>16842</td>\n",
-       "      <td>1</td>\n",
-       "      <td>1</td>\n",
-       "      <td>48</td>\n",
-       "      <td>48</td>\n",
-       "      <td>48</td>\n",
-       "      <td>48</td>\n",
-       "      <td>48.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>48</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>191032</th>\n",
-       "      <td>153</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2</td>\n",
-       "      <td>68</td>\n",
-       "      <td>100</td>\n",
-       "      <td>34</td>\n",
-       "      <td>34</td>\n",
-       "      <td>34.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>50</td>\n",
-       "      <td>...</td>\n",
-       "      <td>20</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0.0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "    </tr>\n",
-       "  </tbody>\n",
-       "</table>\n",
-       "<p>703245 rows × 78 columns</p>\n",
-       "</div>"
-      ],
-      "text/plain": [
-       "         Flow Duration   Total Fwd Packets   Total Backward Packets  \\\n",
-       "0                    3                   2                        0   \n",
-       "1                  109                   1                        1   \n",
-       "2                   52                   1                        1   \n",
-       "3                   34                   1                        1   \n",
-       "4                    3                   2                        0   \n",
-       "...                ...                 ...                      ...   \n",
-       "191028           61452                   4                        2   \n",
-       "191029             171                   2                        2   \n",
-       "191030             222                   2                        2   \n",
-       "191031           16842                   1                        1   \n",
-       "191032             153                   2                        2   \n",
-       "\n",
-       "        Total Length of Fwd Packets   Total Length of Bwd Packets  \\\n",
-       "0                                12                             0   \n",
-       "1                                 6                             6   \n",
-       "2                                 6                             6   \n",
-       "3                                 6                             6   \n",
-       "4                                12                             0   \n",
-       "...                             ...                           ...   \n",
-       "191028                          180                           354   \n",
-       "191029                           80                           272   \n",
-       "191030                           90                           354   \n",
-       "191031                           48                            48   \n",
-       "191032                           68                           100   \n",
-       "\n",
-       "         Fwd Packet Length Max   Fwd Packet Length Min  \\\n",
-       "0                            6                       6   \n",
-       "1                            6                       6   \n",
-       "2                            6                       6   \n",
-       "3                            6                       6   \n",
-       "4                            6                       6   \n",
-       "...                        ...                     ...   \n",
-       "191028                      45                      45   \n",
-       "191029                      40                      40   \n",
-       "191030                      45                      45   \n",
-       "191031                      48                      48   \n",
-       "191032                      34                      34   \n",
-       "\n",
-       "         Fwd Packet Length Mean   Fwd Packet Length Std  \\\n",
-       "0                           6.0                     0.0   \n",
-       "1                           6.0                     0.0   \n",
-       "2                           6.0                     0.0   \n",
-       "3                           6.0                     0.0   \n",
-       "4                           6.0                     0.0   \n",
-       "...                         ...                     ...   \n",
-       "191028                     45.0                     0.0   \n",
-       "191029                     40.0                     0.0   \n",
-       "191030                     45.0                     0.0   \n",
-       "191031                     48.0                     0.0   \n",
-       "191032                     34.0                     0.0   \n",
-       "\n",
-       "        Bwd Packet Length Max  ...   min_seg_size_forward  Active Mean  \\\n",
-       "0                           0  ...                     20          0.0   \n",
-       "1                           6  ...                     20          0.0   \n",
-       "2                           6  ...                     20          0.0   \n",
-       "3                           6  ...                     20          0.0   \n",
-       "4                           0  ...                     20          0.0   \n",
-       "...                       ...  ...                    ...          ...   \n",
-       "191028                    177  ...                     20          0.0   \n",
-       "191029                    136  ...                     32          0.0   \n",
-       "191030                    177  ...                     32          0.0   \n",
-       "191031                     48  ...                     20          0.0   \n",
-       "191032                     50  ...                     20          0.0   \n",
-       "\n",
-       "         Active Std   Active Max   Active Min  Idle Mean   Idle Std  \\\n",
-       "0               0.0            0            0        0.0        0.0   \n",
-       "1               0.0            0            0        0.0        0.0   \n",
-       "2               0.0            0            0        0.0        0.0   \n",
-       "3               0.0            0            0        0.0        0.0   \n",
-       "4               0.0            0            0        0.0        0.0   \n",
-       "...             ...          ...          ...        ...        ...   \n",
-       "191028          0.0            0            0        0.0        0.0   \n",
-       "191029          0.0            0            0        0.0        0.0   \n",
-       "191030          0.0            0            0        0.0        0.0   \n",
-       "191031          0.0            0            0        0.0        0.0   \n",
-       "191032          0.0            0            0        0.0        0.0   \n",
-       "\n",
-       "         Idle Max   Idle Min   Label  \n",
-       "0               0          0       0  \n",
-       "1               0          0       0  \n",
-       "2               0          0       0  \n",
-       "3               0          0       0  \n",
-       "4               0          0       0  \n",
-       "...           ...        ...     ...  \n",
-       "191028          0          0       0  \n",
-       "191029          0          0       0  \n",
-       "191030          0          0       0  \n",
-       "191031          0          0       0  \n",
-       "191032          0          0       0  \n",
-       "\n",
-       "[703245 rows x 78 columns]"
-      ]
-     },
-     "execution_count": 12,
-     "metadata": {},
-     "output_type": "execute_result"
-    }
-   ],
-   "source": [
-    "for col in final_cicids.columns:\n",
-    "    if final_cicids[col].dtype == 'object':  # Categorical columns\n",
-    "        # Replace NaN with the most frequent value\n",
-    "        most_frequent_value = final_cicids[col].mode()[0]\n",
-    "        final_cicids[col].fillna(most_frequent_value, inplace=True)\n",
-    "    else:  # Numeric columns\n",
-    "        # Replace NaN with the column's average\n",
-    "        column_average = final_cicids[col].mean()\n",
-    "        final_cicids[col].fillna(column_average, inplace=True)\n",
-    "final_cicids"
+    "#prints the columns having atlest one NaN\n",
+    "for cols in final_cicids.columns:\n",
+    "    if( cols == \" Label\" ):\n",
+    "        continue\n",
+    "    if( final_cicids[cols].isnull().values.any() == True):\n",
+    "        print( cols )"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "c2c39ca9",
+   "id": "4b1de5c3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:47.440359Z",
-     "iopub.status.busy": "2024-07-10T04:21:47.439371Z",
-     "iopub.status.idle": "2024-07-10T04:21:49.842044Z",
-     "shell.execute_reply": "2024-07-10T04:21:49.840943Z"
+     "iopub.execute_input": "2024-07-10T08:58:36.942479Z",
+     "iopub.status.busy": "2024-07-10T08:58:36.942075Z",
+     "iopub.status.idle": "2024-07-10T08:58:37.230923Z",
+     "shell.execute_reply": "2024-07-10T08:58:37.229784Z"
     },
     "papermill": {
-     "duration": 2.418848,
-     "end_time": "2024-07-10T04:21:49.844994",
+     "duration": 0.314511,
+     "end_time": "2024-07-10T08:58:37.234223",
      "exception": false,
-     "start_time": "2024-07-10T04:21:47.426146",
+     "start_time": "2024-07-10T08:58:36.919712",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "\n",
+    "# Replace all the attack labels with label ‘1’ and benign/no-attack sample labels with label ‘0’.\n",
+    "\n",
+    "final_cicids.loc[final_cicids[\" Label\"] == \"BENIGN\", \" Label\"] = 0\n",
+    "final_cicids.loc[final_cicids[\" Label\"] != 0, \" Label\"] = 1\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "49dbb197",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:58:37.277866Z",
+     "iopub.status.busy": "2024-07-10T08:58:37.277461Z",
+     "iopub.status.idle": "2024-07-10T08:58:39.877553Z",
+     "shell.execute_reply": "2024-07-10T08:58:39.876325Z"
+    },
+    "papermill": {
+     "duration": 2.625512,
+     "end_time": "2024-07-10T08:58:39.880355",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:37.254843",
      "status": "completed"
     },
     "tags": []
@@ -3849,7 +3118,7 @@
        "[507341 rows x 78 columns]"
       ]
      },
-     "execution_count": 13,
+     "execution_count": 14,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -3861,20 +3130,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 14,
-   "id": "d611cd26",
+   "execution_count": 15,
+   "id": "7ce404e0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:49.873500Z",
-     "iopub.status.busy": "2024-07-10T04:21:49.872617Z",
-     "iopub.status.idle": "2024-07-10T04:21:50.258635Z",
-     "shell.execute_reply": "2024-07-10T04:21:50.257489Z"
+     "iopub.execute_input": "2024-07-10T08:58:39.926612Z",
+     "iopub.status.busy": "2024-07-10T08:58:39.925633Z",
+     "iopub.status.idle": "2024-07-10T08:58:39.940009Z",
+     "shell.execute_reply": "2024-07-10T08:58:39.938499Z"
     },
     "papermill": {
-     "duration": 0.40335,
-     "end_time": "2024-07-10T04:21:50.261360",
+     "duration": 0.040409,
+     "end_time": "2024-07-10T08:58:39.942595",
      "exception": false,
-     "start_time": "2024-07-10T04:21:49.858010",
+     "start_time": "2024-07-10T08:58:39.902186",
      "status": "completed"
     },
     "tags": []
@@ -3884,73 +3153,52 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Maximum values per column:\n",
-      " Flow Duration                  119999993.0\n",
-      " Total Fwd Packets                 207964.0\n",
-      " Total Backward Packets            284602.0\n",
-      "Total Length of Fwd Packets       1235152.0\n",
-      " Total Length of Bwd Packets    627000000.0\n",
-      "                                   ...     \n",
-      "Idle Mean                       120000000.0\n",
-      " Idle Std                        76600000.0\n",
-      " Idle Max                       120000000.0\n",
-      " Idle Min                       120000000.0\n",
-      " Label                                  3.0\n",
-      "Length: 78, dtype: float64\n",
+      " Label:\n",
+      "0    0\n",
+      "1    0\n",
+      "2    0\n",
+      "3    0\n",
+      "4    0\n",
+      "Name:  Label, dtype: object\n",
       "\n",
-      "Minimum values per column:\n",
-      " Flow Duration                 -13.0\n",
-      " Total Fwd Packets               1.0\n",
-      " Total Backward Packets          0.0\n",
-      "Total Length of Fwd Packets      0.0\n",
-      " Total Length of Bwd Packets     0.0\n",
-      "                                ... \n",
-      "Idle Mean                        0.0\n",
-      " Idle Std                        0.0\n",
-      " Idle Max                        0.0\n",
-      " Idle Min                        0.0\n",
-      " Label                           0.0\n",
-      "Length: 78, dtype: float64\n"
-     ]
-    },
-    {
-     "name": "stderr",
-     "output_type": "stream",
-     "text": [
-      "/tmp/ipykernel_18/2999949032.py:7: SettingWithCopyWarning: \n",
-      "A value is trying to be set on a copy of a slice from a DataFrame\n",
-      "\n",
-      "See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy\n",
-      "  final_cicids.replace([np.inf, -np.inf], np.nan, inplace=True)\n"
+      "0         0\n",
+      "1         0\n",
+      "2         0\n",
+      "3         0\n",
+      "4         0\n",
+      "         ..\n",
+      "191028    0\n",
+      "191029    0\n",
+      "191030    0\n",
+      "191031    0\n",
+      "191032    0\n",
+      "Name:  Label, Length: 507341, dtype: object\n"
      ]
     }
    ],
    "source": [
-    "print(\"Maximum values per column:\")\n",
-    "print(final_cicids.max())\n",
-    "\n",
-    "print(\"\\nMinimum values per column:\")\n",
-    "print(final_cicids.min())\n",
-    "\n",
-    "final_cicids.replace([np.inf, -np.inf], np.nan, inplace=True)"
+    "categorical_columns = final_cicids.select_dtypes(include=['object']).columns\n",
+    "for col in categorical_columns:\n",
+    "    print(f\"{col}:\\n{final_cicids[col].head()}\\n\")\n",
+    "print(final_cicids[' Label'])"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 15,
-   "id": "5768c89c",
+   "execution_count": 16,
+   "id": "9ef1645c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:50.291257Z",
-     "iopub.status.busy": "2024-07-10T04:21:50.290166Z",
-     "iopub.status.idle": "2024-07-10T04:21:50.889318Z",
-     "shell.execute_reply": "2024-07-10T04:21:50.888044Z"
+     "iopub.execute_input": "2024-07-10T08:58:39.988298Z",
+     "iopub.status.busy": "2024-07-10T08:58:39.987915Z",
+     "iopub.status.idle": "2024-07-10T08:58:54.765092Z",
+     "shell.execute_reply": "2024-07-10T08:58:54.763876Z"
     },
     "papermill": {
-     "duration": 0.616226,
-     "end_time": "2024-07-10T04:21:50.892109",
+     "duration": 14.802987,
+     "end_time": "2024-07-10T08:58:54.768089",
      "exception": false,
-     "start_time": "2024-07-10T04:21:50.275883",
+     "start_time": "2024-07-10T08:58:39.965102",
      "status": "completed"
     },
     "tags": []
@@ -3965,20 +3213,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 16,
-   "id": "6bc4fb4e",
+   "execution_count": 17,
+   "id": "dd11165d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-07-10T04:21:50.919719Z",
-     "iopub.status.busy": "2024-07-10T04:21:50.919270Z",
-     "iopub.status.idle": "2024-07-10T04:21:50.950971Z",
-     "shell.execute_reply": "2024-07-10T04:21:50.949810Z"
+     "iopub.execute_input": "2024-07-10T08:58:54.812207Z",
+     "iopub.status.busy": "2024-07-10T08:58:54.811798Z",
+     "iopub.status.idle": "2024-07-10T08:58:54.847506Z",
+     "shell.execute_reply": "2024-07-10T08:58:54.846264Z"
     },
     "papermill": {
-     "duration": 0.048129,
-     "end_time": "2024-07-10T04:21:50.953250",
+     "duration": 0.06095,
+     "end_time": "2024-07-10T08:58:54.850146",
      "exception": false,
-     "start_time": "2024-07-10T04:21:50.905121",
+     "start_time": "2024-07-10T08:58:54.789196",
      "status": "completed"
     },
     "tags": []
@@ -4200,7 +3448,7 @@
        "[5 rows x 78 columns]"
       ]
      },
-     "execution_count": 16,
+     "execution_count": 17,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -4214,20 +3462,1370 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "id": "4985bb90",
+   "execution_count": 18,
+   "id": "1a30aba0",
    "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:58:54.896345Z",
+     "iopub.status.busy": "2024-07-10T08:58:54.895912Z",
+     "iopub.status.idle": "2024-07-10T08:58:56.547205Z",
+     "shell.execute_reply": "2024-07-10T08:58:56.545522Z"
+    },
     "papermill": {
-     "duration": 0.012964,
-     "end_time": "2024-07-10T04:21:50.979758",
+     "duration": 1.679539,
+     "end_time": "2024-07-10T08:58:56.551643",
      "exception": false,
-     "start_time": "2024-07-10T04:21:50.966794",
+     "start_time": "2024-07-10T08:58:54.872104",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
-   "source": []
+   "source": [
+    "from sklearn.feature_selection import SelectKBest, chi2\n",
+    "X = final_cicids_normalized_df.drop(columns=[' Label'])\n",
+    "y= final_cicids_normalized_df[' Label']\n",
+    "\n",
+    "k_best_40 = SelectKBest(score_func=chi2, k=5)\n",
+    "X_best_40 = k_best_40.fit_transform(X, y)\n",
+    "\n",
+    "k_best_50 = SelectKBest(score_func=chi2, k=50)\n",
+    "X_best_50 = k_best_50.fit_transform(X, y) \n",
+    "\n",
+    "k_best_60 = SelectKBest(score_func=chi2, k=60)\n",
+    "X_best_60 = k_best_60.fit_transform(X, y) "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "id": "5cebd04e",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:58:56.597727Z",
+     "iopub.status.busy": "2024-07-10T08:58:56.597280Z",
+     "iopub.status.idle": "2024-07-10T08:58:56.606617Z",
+     "shell.execute_reply": "2024-07-10T08:58:56.605429Z"
+    },
+    "papermill": {
+     "duration": 0.035861,
+     "end_time": "2024-07-10T08:58:56.609464",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:56.573603",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Selected features for k=40: Index(['Bwd Packet Length Max', ' Bwd Packet Length Mean',\n",
+      "       ' Bwd Packet Length Std', ' Packet Length Std',\n",
+      "       ' Avg Bwd Segment Size'],\n",
+      "      dtype='object')\n",
+      "Selected features for k=50: Index([' Flow Duration', 'Total Length of Fwd Packets',\n",
+      "       ' Fwd Packet Length Max', ' Fwd Packet Length Min',\n",
+      "       ' Fwd Packet Length Mean', ' Fwd Packet Length Std',\n",
+      "       'Bwd Packet Length Max', ' Bwd Packet Length Min',\n",
+      "       ' Bwd Packet Length Mean', ' Bwd Packet Length Std', ' Flow IAT Mean',\n",
+      "       ' Flow IAT Std', ' Flow IAT Max', ' Flow IAT Min', 'Fwd IAT Total',\n",
+      "       ' Fwd IAT Std', ' Fwd IAT Max', ' Fwd IAT Min', 'Bwd IAT Total',\n",
+      "       ' Bwd IAT Mean', ' Bwd IAT Std', ' Bwd IAT Max', ' Bwd IAT Min',\n",
+      "       'Fwd PSH Flags', 'Fwd Packets/s', ' Bwd Packets/s',\n",
+      "       ' Min Packet Length', ' Max Packet Length', ' Packet Length Mean',\n",
+      "       ' Packet Length Std', ' Packet Length Variance', 'FIN Flag Count',\n",
+      "       ' SYN Flag Count', ' PSH Flag Count', ' ACK Flag Count',\n",
+      "       ' URG Flag Count', ' Down/Up Ratio', ' Average Packet Size',\n",
+      "       ' Avg Fwd Segment Size', ' Avg Bwd Segment Size', ' Subflow Fwd Bytes',\n",
+      "       'Init_Win_bytes_forward', ' Init_Win_bytes_backward',\n",
+      "       ' min_seg_size_forward', ' Active Std', ' Active Min', 'Idle Mean',\n",
+      "       ' Idle Std', ' Idle Max', ' Idle Min'],\n",
+      "      dtype='object')\n",
+      "Selected features for k=60: Index([' Flow Duration', ' Total Backward Packets',\n",
+      "       'Total Length of Fwd Packets', ' Fwd Packet Length Max',\n",
+      "       ' Fwd Packet Length Min', ' Fwd Packet Length Mean',\n",
+      "       ' Fwd Packet Length Std', 'Bwd Packet Length Max',\n",
+      "       ' Bwd Packet Length Min', ' Bwd Packet Length Mean',\n",
+      "       ' Bwd Packet Length Std', ' Flow Packets/s', ' Flow IAT Mean',\n",
+      "       ' Flow IAT Std', ' Flow IAT Max', ' Flow IAT Min', 'Fwd IAT Total',\n",
+      "       ' Fwd IAT Mean', ' Fwd IAT Std', ' Fwd IAT Max', ' Fwd IAT Min',\n",
+      "       'Bwd IAT Total', ' Bwd IAT Mean', ' Bwd IAT Std', ' Bwd IAT Max',\n",
+      "       ' Bwd IAT Min', 'Fwd PSH Flags', ' Fwd Header Length',\n",
+      "       ' Bwd Header Length', 'Fwd Packets/s', ' Bwd Packets/s',\n",
+      "       ' Min Packet Length', ' Max Packet Length', ' Packet Length Mean',\n",
+      "       ' Packet Length Std', ' Packet Length Variance', 'FIN Flag Count',\n",
+      "       ' SYN Flag Count', ' RST Flag Count', ' PSH Flag Count',\n",
+      "       ' ACK Flag Count', ' URG Flag Count', ' ECE Flag Count',\n",
+      "       ' Down/Up Ratio', ' Average Packet Size', ' Avg Fwd Segment Size',\n",
+      "       ' Avg Bwd Segment Size', ' Fwd Header Length.1', ' Subflow Fwd Bytes',\n",
+      "       ' Subflow Bwd Packets', 'Init_Win_bytes_forward',\n",
+      "       ' Init_Win_bytes_backward', ' min_seg_size_forward', 'Active Mean',\n",
+      "       ' Active Std', ' Active Min', 'Idle Mean', ' Idle Std', ' Idle Max',\n",
+      "       ' Idle Min'],\n",
+      "      dtype='object')\n"
+     ]
+    }
+   ],
+   "source": [
+    "selected_features_40 = X.columns[k_best_40.get_support()]\n",
+    "selected_features_50 = X.columns[k_best_50.get_support()]\n",
+    "selected_features_60 = X.columns[k_best_60.get_support()]\n",
+    "\n",
+    "print(f\"Selected features for k=40: {selected_features_40}\")\n",
+    "print(f\"Selected features for k=50: {selected_features_50}\")\n",
+    "print(f\"Selected features for k=60: {selected_features_60}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "ab664a7d",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:58:56.655621Z",
+     "iopub.status.busy": "2024-07-10T08:58:56.655172Z",
+     "iopub.status.idle": "2024-07-10T08:58:57.512453Z",
+     "shell.execute_reply": "2024-07-10T08:58:57.510862Z"
+    },
+    "papermill": {
+     "duration": 0.883565,
+     "end_time": "2024-07-10T08:58:57.515340",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:56.631775",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "from sklearn.model_selection import train_test_split\n",
+    "# Splitting for k=40\n",
+    "X_40 = X[selected_features_40]\n",
+    "X_train_40, X_test_40, y_train, y_test = train_test_split(X_40, y, test_size=0.2, random_state=42)\n",
+    "\n",
+    "# Splitting for k=50\n",
+    "X_50 = X[selected_features_50]\n",
+    "X_train_50, X_test_50, y_train, y_test = train_test_split(X_50, y, test_size=0.2, random_state=42)\n",
+    "\n",
+    "# Splitting for k=60\n",
+    "X_60 = X[selected_features_60]\n",
+    "X_train_60, X_test_60, y_train, y_test = train_test_split(X_60, y, test_size=0.2, random_state=42)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "id": "f1fa8402",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:58:57.562665Z",
+     "iopub.status.busy": "2024-07-10T08:58:57.562201Z",
+     "iopub.status.idle": "2024-07-10T08:58:57.690472Z",
+     "shell.execute_reply": "2024-07-10T08:58:57.689244Z"
+    },
+    "papermill": {
+     "duration": 0.155912,
+     "end_time": "2024-07-10T08:58:57.693568",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:57.537656",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "from sklearn.naive_bayes import GaussianNB\n",
+    "from sklearn.linear_model import LogisticRegression\n",
+    "from sklearn.svm import SVC\n",
+    "from sklearn.tree import DecisionTreeClassifier\n",
+    "from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier, VotingClassifier\n",
+    "from sklearn.neural_network import MLPClassifier\n",
+    "from sklearn.metrics import accuracy_score"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "41ab8054",
+   "metadata": {
+    "papermill": {
+     "duration": 0.021641,
+     "end_time": "2024-07-10T08:58:57.737308",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:57.715667",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### Gaussian Naive Bayes"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 22,
+   "id": "67dac972",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:58:57.784040Z",
+     "iopub.status.busy": "2024-07-10T08:58:57.783635Z",
+     "iopub.status.idle": "2024-07-10T08:58:57.917309Z",
+     "shell.execute_reply": "2024-07-10T08:58:57.915842Z"
+    },
+    "papermill": {
+     "duration": 0.160946,
+     "end_time": "2024-07-10T08:58:57.920111",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:57.759165",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Gaussian Naive Bayes Accuracy (k=40): 0.8533\n"
+     ]
+    }
+   ],
+   "source": [
+    "gnb = GaussianNB()\n",
+    "gnb.fit(X_train_40, y_train)\n",
+    "gnb_pred = gnb.predict(X_test_40)\n",
+    "gnb_accuracy = accuracy_score(y_test, gnb_pred)\n",
+    "print(f\"Gaussian Naive Bayes Accuracy (k=40): {gnb_accuracy:.4f}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "id": "4ecdf5b3",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:58:58.036050Z",
+     "iopub.status.busy": "2024-07-10T08:58:58.035592Z",
+     "iopub.status.idle": "2024-07-10T08:58:58.596139Z",
+     "shell.execute_reply": "2024-07-10T08:58:58.594500Z"
+    },
+    "papermill": {
+     "duration": 0.58798,
+     "end_time": "2024-07-10T08:58:58.599038",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:58.011058",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Gaussian Naive Bayes Accuracy (k=50): 0.8892\n"
+     ]
+    }
+   ],
+   "source": [
+    "gnb.fit(X_train_50, y_train)\n",
+    "gnb_pred = gnb.predict(X_test_50)\n",
+    "gnb_accuracy = accuracy_score(y_test, gnb_pred)\n",
+    "print(f\"Gaussian Naive Bayes Accuracy (k=50): {gnb_accuracy:.4f}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "id": "9d35e592",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:58:58.645689Z",
+     "iopub.status.busy": "2024-07-10T08:58:58.645258Z",
+     "iopub.status.idle": "2024-07-10T08:58:59.276334Z",
+     "shell.execute_reply": "2024-07-10T08:58:59.275032Z"
+    },
+    "papermill": {
+     "duration": 0.657851,
+     "end_time": "2024-07-10T08:58:59.279195",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:58.621344",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Gaussian Naive Bayes Accuracy (k=60): 0.8699\n"
+     ]
+    }
+   ],
+   "source": [
+    "gnb.fit(X_train_60, y_train)\n",
+    "gnb_pred = gnb.predict(X_test_60)\n",
+    "gnb_accuracy = accuracy_score(y_test, gnb_pred)\n",
+    "print(f\"Gaussian Naive Bayes Accuracy (k=60): {gnb_accuracy:.4f}\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "68672443",
+   "metadata": {
+    "papermill": {
+     "duration": 0.024136,
+     "end_time": "2024-07-10T08:58:59.326981",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:59.302845",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### Logistic Regression"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 25,
+   "id": "31412849",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:58:59.374341Z",
+     "iopub.status.busy": "2024-07-10T08:58:59.373921Z",
+     "iopub.status.idle": "2024-07-10T08:59:00.813277Z",
+     "shell.execute_reply": "2024-07-10T08:59:00.811981Z"
+    },
+    "papermill": {
+     "duration": 1.468131,
+     "end_time": "2024-07-10T08:59:00.818035",
+     "exception": false,
+     "start_time": "2024-07-10T08:58:59.349904",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Logistic Regression Accuracy (k=40): 0.8917\n"
+     ]
+    }
+   ],
+   "source": [
+    "logreg = LogisticRegression(max_iter=1000)\n",
+    "logreg.fit(X_train_40, y_train)\n",
+    "logreg_pred = logreg.predict(X_test_40)\n",
+    "logreg_accuracy = accuracy_score(y_test, logreg_pred)\n",
+    "print(f\"Logistic Regression Accuracy (k=40): {logreg_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 26,
+   "id": "71a69d1a",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:59:00.913716Z",
+     "iopub.status.busy": "2024-07-10T08:59:00.913293Z",
+     "iopub.status.idle": "2024-07-10T08:59:19.336200Z",
+     "shell.execute_reply": "2024-07-10T08:59:19.334965Z"
+    },
+    "papermill": {
+     "duration": 18.472154,
+     "end_time": "2024-07-10T08:59:19.340894",
+     "exception": false,
+     "start_time": "2024-07-10T08:59:00.868740",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Logistic Regression Accuracy (k=50): 0.9713\n"
+     ]
+    }
+   ],
+   "source": [
+    "logreg = LogisticRegression(max_iter=1000)\n",
+    "logreg.fit(X_train_50, y_train)\n",
+    "logreg_pred = logreg.predict(X_test_50)\n",
+    "logreg_accuracy = accuracy_score(y_test, logreg_pred)\n",
+    "print(f\"Logistic Regression Accuracy (k=50): {logreg_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 27,
+   "id": "54d487af",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:59:19.434217Z",
+     "iopub.status.busy": "2024-07-10T08:59:19.433836Z",
+     "iopub.status.idle": "2024-07-10T08:59:41.564698Z",
+     "shell.execute_reply": "2024-07-10T08:59:41.563476Z"
+    },
+    "papermill": {
+     "duration": 22.179939,
+     "end_time": "2024-07-10T08:59:41.569707",
+     "exception": false,
+     "start_time": "2024-07-10T08:59:19.389768",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Logistic Regression Accuracy (k=60): 0.9715\n"
+     ]
+    }
+   ],
+   "source": [
+    "logreg = LogisticRegression(max_iter=1000)\n",
+    "logreg.fit(X_train_60, y_train)\n",
+    "logreg_pred = logreg.predict(X_test_60)\n",
+    "logreg_accuracy = accuracy_score(y_test, logreg_pred)\n",
+    "print(f\"Logistic Regression Accuracy (k=60): {logreg_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4c970591",
+   "metadata": {
+    "papermill": {
+     "duration": 0.04141,
+     "end_time": "2024-07-10T08:59:41.659879",
+     "exception": false,
+     "start_time": "2024-07-10T08:59:41.618469",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### SVM (Linear Kernel)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
+   "id": "cf1c39e8",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T08:59:41.707503Z",
+     "iopub.status.busy": "2024-07-10T08:59:41.707047Z",
+     "iopub.status.idle": "2024-07-10T10:16:42.798598Z",
+     "shell.execute_reply": "2024-07-10T10:16:42.797218Z"
+    },
+    "papermill": {
+     "duration": 4621.14315,
+     "end_time": "2024-07-10T10:16:42.825779",
+     "exception": false,
+     "start_time": "2024-07-10T08:59:41.682629",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "SVM (Linear kernel) Accuracy (k=40): 0.8948\n"
+     ]
+    }
+   ],
+   "source": [
+    "svm_linear = SVC(kernel='linear')\n",
+    "svm_linear.fit(X_train_40, y_train)\n",
+    "svm_linear_pred = svm_linear.predict(X_test_40)\n",
+    "svm_linear_accuracy = accuracy_score(y_test, svm_linear_pred)\n",
+    "print(f\"SVM (Linear kernel) Accuracy (k=40): {svm_linear_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "id": "2733e795",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T10:16:42.873361Z",
+     "iopub.status.busy": "2024-07-10T10:16:42.872388Z",
+     "iopub.status.idle": "2024-07-10T10:58:23.270640Z",
+     "shell.execute_reply": "2024-07-10T10:58:23.269225Z"
+    },
+    "papermill": {
+     "duration": 2500.450683,
+     "end_time": "2024-07-10T10:58:23.298840",
+     "exception": false,
+     "start_time": "2024-07-10T10:16:42.848157",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "SVM (Linear kernel) Accuracy (k=50): 0.9685\n"
+     ]
+    }
+   ],
+   "source": [
+    "svm_linear = SVC(kernel='linear')\n",
+    "svm_linear.fit(X_train_50, y_train)\n",
+    "svm_linear_pred = svm_linear.predict(X_test_50)\n",
+    "svm_linear_accuracy = accuracy_score(y_test, svm_linear_pred)\n",
+    "print(f\"SVM (Linear kernel) Accuracy (k=50): {svm_linear_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "id": "b1a3df73",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T10:58:23.347272Z",
+     "iopub.status.busy": "2024-07-10T10:58:23.346825Z",
+     "iopub.status.idle": "2024-07-10T11:39:42.283814Z",
+     "shell.execute_reply": "2024-07-10T11:39:42.282472Z"
+    },
+    "papermill": {
+     "duration": 2478.989936,
+     "end_time": "2024-07-10T11:39:42.311651",
+     "exception": false,
+     "start_time": "2024-07-10T10:58:23.321715",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "SVM (Linear kernel) Accuracy (k=60): 0.9689\n"
+     ]
+    }
+   ],
+   "source": [
+    "svm_linear = SVC(kernel='linear')\n",
+    "svm_linear.fit(X_train_60, y_train)\n",
+    "svm_linear_pred = svm_linear.predict(X_test_60)\n",
+    "svm_linear_accuracy = accuracy_score(y_test, svm_linear_pred)\n",
+    "print(f\"SVM (Linear kernel) Accuracy (k=60): {svm_linear_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1761179d",
+   "metadata": {
+    "papermill": {
+     "duration": 0.022824,
+     "end_time": "2024-07-10T11:39:42.357368",
+     "exception": false,
+     "start_time": "2024-07-10T11:39:42.334544",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### Decision Trees (ID3)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "id": "d2d0e8d6",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T11:39:42.405910Z",
+     "iopub.status.busy": "2024-07-10T11:39:42.405446Z",
+     "iopub.status.idle": "2024-07-10T11:39:44.127256Z",
+     "shell.execute_reply": "2024-07-10T11:39:44.125938Z"
+    },
+    "papermill": {
+     "duration": 1.749408,
+     "end_time": "2024-07-10T11:39:44.129945",
+     "exception": false,
+     "start_time": "2024-07-10T11:39:42.380537",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Decision Tree (ID3) Accuracy (k=40): 0.9155\n"
+     ]
+    }
+   ],
+   "source": [
+    "dt_id3 = DecisionTreeClassifier(criterion='entropy')\n",
+    "dt_id3.fit(X_train_40, y_train)\n",
+    "dt_id3_pred = dt_id3.predict(X_test_40)\n",
+    "dt_id3_accuracy = accuracy_score(y_test, dt_id3_pred)\n",
+    "print(f\"Decision Tree (ID3) Accuracy (k=40): {dt_id3_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "id": "2ffb16b7",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T11:39:44.181166Z",
+     "iopub.status.busy": "2024-07-10T11:39:44.180733Z",
+     "iopub.status.idle": "2024-07-10T11:39:56.433936Z",
+     "shell.execute_reply": "2024-07-10T11:39:56.432537Z"
+    },
+    "papermill": {
+     "duration": 12.281643,
+     "end_time": "2024-07-10T11:39:56.436507",
+     "exception": false,
+     "start_time": "2024-07-10T11:39:44.154864",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Decision Tree (ID3) Accuracy (k=50): 0.9986\n"
+     ]
+    }
+   ],
+   "source": [
+    "dt_id3 = DecisionTreeClassifier(criterion='entropy')\n",
+    "dt_id3.fit(X_train_50, y_train)\n",
+    "dt_id3_pred = dt_id3.predict(X_test_50)\n",
+    "dt_id3_accuracy = accuracy_score(y_test, dt_id3_pred)\n",
+    "print(f\"Decision Tree (ID3) Accuracy (k=50): {dt_id3_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "id": "a91c595e",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T11:39:56.486865Z",
+     "iopub.status.busy": "2024-07-10T11:39:56.486424Z",
+     "iopub.status.idle": "2024-07-10T11:40:09.854622Z",
+     "shell.execute_reply": "2024-07-10T11:40:09.853361Z"
+    },
+    "papermill": {
+     "duration": 13.395914,
+     "end_time": "2024-07-10T11:40:09.857138",
+     "exception": false,
+     "start_time": "2024-07-10T11:39:56.461224",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Decision Tree (ID3) Accuracy (k=60): 0.9986\n"
+     ]
+    }
+   ],
+   "source": [
+    "dt_id3 = DecisionTreeClassifier(criterion='entropy')\n",
+    "dt_id3.fit(X_train_60, y_train)\n",
+    "dt_id3_pred = dt_id3.predict(X_test_60)\n",
+    "dt_id3_accuracy = accuracy_score(y_test, dt_id3_pred)\n",
+    "print(f\"Decision Tree (ID3) Accuracy (k=60): {dt_id3_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4da4edb8",
+   "metadata": {
+    "papermill": {
+     "duration": 0.024876,
+     "end_time": "2024-07-10T11:40:09.905475",
+     "exception": false,
+     "start_time": "2024-07-10T11:40:09.880599",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### Random Forest"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "id": "773f8ec4",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T11:40:09.953901Z",
+     "iopub.status.busy": "2024-07-10T11:40:09.953442Z",
+     "iopub.status.idle": "2024-07-10T11:41:05.100472Z",
+     "shell.execute_reply": "2024-07-10T11:41:05.099076Z"
+    },
+    "papermill": {
+     "duration": 55.199331,
+     "end_time": "2024-07-10T11:41:05.128253",
+     "exception": false,
+     "start_time": "2024-07-10T11:40:09.928922",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Random Forest Accuracy (k=40): 0.9156\n"
+     ]
+    }
+   ],
+   "source": [
+    "rf = RandomForestClassifier()\n",
+    "rf.fit(X_train_40, y_train)\n",
+    "rf_pred = rf.predict(X_test_40)\n",
+    "rf_accuracy = accuracy_score(y_test, rf_pred)\n",
+    "print(f\"Random Forest Accuracy (k=40): {rf_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 35,
+   "id": "5a0cac1b",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T11:41:05.177780Z",
+     "iopub.status.busy": "2024-07-10T11:41:05.177342Z",
+     "iopub.status.idle": "2024-07-10T11:43:47.087718Z",
+     "shell.execute_reply": "2024-07-10T11:43:47.086325Z"
+    },
+    "papermill": {
+     "duration": 161.970735,
+     "end_time": "2024-07-10T11:43:47.122929",
+     "exception": false,
+     "start_time": "2024-07-10T11:41:05.152194",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Random Forest Accuracy (k=50): 0.9985\n"
+     ]
+    }
+   ],
+   "source": [
+    "rf = RandomForestClassifier()\n",
+    "rf.fit(X_train_50, y_train)\n",
+    "rf_pred = rf.predict(X_test_50)\n",
+    "rf_accuracy = accuracy_score(y_test, rf_pred)\n",
+    "print(f\"Random Forest Accuracy (k=50): {rf_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 36,
+   "id": "b6cf0485",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T11:43:47.298266Z",
+     "iopub.status.busy": "2024-07-10T11:43:47.297797Z",
+     "iopub.status.idle": "2024-07-10T11:46:22.523529Z",
+     "shell.execute_reply": "2024-07-10T11:46:22.522215Z"
+    },
+    "papermill": {
+     "duration": 155.39032,
+     "end_time": "2024-07-10T11:46:22.549339",
+     "exception": false,
+     "start_time": "2024-07-10T11:43:47.159019",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Random Forest Accuracy (k=60): 0.9985\n"
+     ]
+    }
+   ],
+   "source": [
+    "rf = RandomForestClassifier()\n",
+    "rf.fit(X_train_60, y_train)\n",
+    "rf_pred = rf.predict(X_test_60)\n",
+    "rf_accuracy = accuracy_score(y_test, rf_pred)\n",
+    "print(f\"Random Forest Accuracy (k=60): {rf_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "74d44d6b",
+   "metadata": {
+    "papermill": {
+     "duration": 0.023765,
+     "end_time": "2024-07-10T11:46:22.596904",
+     "exception": false,
+     "start_time": "2024-07-10T11:46:22.573139",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### XGBoost"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 37,
+   "id": "27b1330f",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T11:46:22.647917Z",
+     "iopub.status.busy": "2024-07-10T11:46:22.647497Z",
+     "iopub.status.idle": "2024-07-10T11:46:24.886653Z",
+     "shell.execute_reply": "2024-07-10T11:46:24.885423Z"
+    },
+    "papermill": {
+     "duration": 2.267775,
+     "end_time": "2024-07-10T11:46:24.889844",
+     "exception": false,
+     "start_time": "2024-07-10T11:46:22.622069",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "XGBoost Accuracy (k=40): 0.9150\n"
+     ]
+    }
+   ],
+   "source": [
+    "import xgboost as xgb\n",
+    "\n",
+    "xgb_model = xgb.XGBClassifier()\n",
+    "xgb_model.fit(X_train_40, y_train)\n",
+    "xgb_pred = xgb_model.predict(X_test_40)\n",
+    "xgb_accuracy = accuracy_score(y_test, xgb_pred)\n",
+    "print(f\"XGBoost Accuracy (k=40): {xgb_accuracy:.4f}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 38,
+   "id": "a93d16bc",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T11:46:24.942201Z",
+     "iopub.status.busy": "2024-07-10T11:46:24.940909Z",
+     "iopub.status.idle": "2024-07-10T11:46:32.667829Z",
+     "shell.execute_reply": "2024-07-10T11:46:32.666483Z"
+    },
+    "papermill": {
+     "duration": 7.755595,
+     "end_time": "2024-07-10T11:46:32.670696",
+     "exception": false,
+     "start_time": "2024-07-10T11:46:24.915101",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "XGBoost Accuracy (k=50): 0.9988\n"
+     ]
+    }
+   ],
+   "source": [
+    "import xgboost as xgb\n",
+    "\n",
+    "xgb_model = xgb.XGBClassifier()\n",
+    "xgb_model.fit(X_train_50, y_train)\n",
+    "xgb_pred = xgb_model.predict(X_test_50)\n",
+    "xgb_accuracy = accuracy_score(y_test, xgb_pred)\n",
+    "print(f\"XGBoost Accuracy (k=50): {xgb_accuracy:.4f}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 39,
+   "id": "6d1e4aea",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T11:46:32.722823Z",
+     "iopub.status.busy": "2024-07-10T11:46:32.722373Z",
+     "iopub.status.idle": "2024-07-10T11:46:42.803342Z",
+     "shell.execute_reply": "2024-07-10T11:46:42.802026Z"
+    },
+    "papermill": {
+     "duration": 10.109707,
+     "end_time": "2024-07-10T11:46:42.805894",
+     "exception": false,
+     "start_time": "2024-07-10T11:46:32.696187",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "XGBoost Accuracy (k=60): 0.9988\n"
+     ]
+    }
+   ],
+   "source": [
+    "import xgboost as xgb\n",
+    "\n",
+    "xgb_model = xgb.XGBClassifier()\n",
+    "xgb_model.fit(X_train_60, y_train)\n",
+    "xgb_pred = xgb_model.predict(X_test_60)\n",
+    "xgb_accuracy = accuracy_score(y_test, xgb_pred)\n",
+    "print(f\"XGBoost Accuracy (k=60): {xgb_accuracy:.4f}\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b5a7e9e3",
+   "metadata": {
+    "papermill": {
+     "duration": 0.024086,
+     "end_time": "2024-07-10T11:46:42.854780",
+     "exception": false,
+     "start_time": "2024-07-10T11:46:42.830694",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### Voting Classifier"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 40,
+   "id": "93343ed9",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T11:46:42.905307Z",
+     "iopub.status.busy": "2024-07-10T11:46:42.904922Z",
+     "iopub.status.idle": "2024-07-10T11:46:42.910843Z",
+     "shell.execute_reply": "2024-07-10T11:46:42.909491Z"
+    },
+    "papermill": {
+     "duration": 0.034105,
+     "end_time": "2024-07-10T11:46:42.913324",
+     "exception": false,
+     "start_time": "2024-07-10T11:46:42.879219",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "voting_clf = VotingClassifier(estimators=[\n",
+    "    ('gnb', gnb), \n",
+    "    ('logreg', logreg), \n",
+    "    ('svm_linear', svm_linear)\n",
+    "], voting='hard')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 41,
+   "id": "933327a6",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T11:46:42.965166Z",
+     "iopub.status.busy": "2024-07-10T11:46:42.964785Z",
+     "iopub.status.idle": "2024-07-10T13:04:11.786650Z",
+     "shell.execute_reply": "2024-07-10T13:04:11.785296Z"
+    },
+    "papermill": {
+     "duration": 4648.876693,
+     "end_time": "2024-07-10T13:04:11.815448",
+     "exception": false,
+     "start_time": "2024-07-10T11:46:42.938755",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Voting Classifier Accuracy (k=40): 0.8929\n"
+     ]
+    }
+   ],
+   "source": [
+    "voting_clf.fit(X_train_40, y_train)\n",
+    "voting_pred = voting_clf.predict(X_test_40)\n",
+    "voting_accuracy = accuracy_score(y_test, voting_pred)\n",
+    "print(f\"Voting Classifier Accuracy (k=40): {voting_accuracy:.4f}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 42,
+   "id": "148761a2",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T13:04:11.867394Z",
+     "iopub.status.busy": "2024-07-10T13:04:11.866296Z",
+     "iopub.status.idle": "2024-07-10T13:42:17.267122Z",
+     "shell.execute_reply": "2024-07-10T13:42:17.265612Z"
+    },
+    "papermill": {
+     "duration": 2285.456169,
+     "end_time": "2024-07-10T13:42:17.296091",
+     "exception": false,
+     "start_time": "2024-07-10T13:04:11.839922",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Voting Classifier Accuracy (k=50): 0.9683\n"
+     ]
+    }
+   ],
+   "source": [
+    "voting_clf.fit(X_train_50, y_train)\n",
+    "voting_pred = voting_clf.predict(X_test_50)\n",
+    "voting_accuracy = accuracy_score(y_test, voting_pred)\n",
+    "print(f\"Voting Classifier Accuracy (k=50): {voting_accuracy:.4f}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 43,
+   "id": "2a6b981c",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T13:42:17.348908Z",
+     "iopub.status.busy": "2024-07-10T13:42:17.348468Z",
+     "iopub.status.idle": "2024-07-10T14:25:57.744568Z",
+     "shell.execute_reply": "2024-07-10T14:25:57.743313Z"
+    },
+    "papermill": {
+     "duration": 2620.452262,
+     "end_time": "2024-07-10T14:25:57.773822",
+     "exception": false,
+     "start_time": "2024-07-10T13:42:17.321560",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Voting Classifier Accuracy (k=60): 0.9686\n"
+     ]
+    }
+   ],
+   "source": [
+    "voting_clf.fit(X_train_60, y_train)\n",
+    "voting_pred = voting_clf.predict(X_test_60)\n",
+    "voting_accuracy = accuracy_score(y_test, voting_pred)\n",
+    "print(f\"Voting Classifier Accuracy (k=60): {voting_accuracy:.4f}\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "98f89f46",
+   "metadata": {
+    "papermill": {
+     "duration": 0.02528,
+     "end_time": "2024-07-10T14:25:57.824598",
+     "exception": false,
+     "start_time": "2024-07-10T14:25:57.799318",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### Adaboost Classifier"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 44,
+   "id": "2924ee0c",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T14:25:57.877605Z",
+     "iopub.status.busy": "2024-07-10T14:25:57.877202Z",
+     "iopub.status.idle": "2024-07-10T14:26:18.098019Z",
+     "shell.execute_reply": "2024-07-10T14:26:18.096446Z"
+    },
+    "papermill": {
+     "duration": 20.251054,
+     "end_time": "2024-07-10T14:26:18.101185",
+     "exception": false,
+     "start_time": "2024-07-10T14:25:57.850131",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "AdaBoost Classifier Accuracy (k=40): 0.9100\n"
+     ]
+    }
+   ],
+   "source": [
+    "adaboost = AdaBoostClassifier(n_estimators=50, learning_rate=1.0)\n",
+    "adaboost.fit(X_train_40, y_train)\n",
+    "adaboost_pred = adaboost.predict(X_test_40)\n",
+    "adaboost_accuracy = accuracy_score(y_test, adaboost_pred)\n",
+    "print(f\"AdaBoost Classifier Accuracy (k=40): {adaboost_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 45,
+   "id": "cb81595b",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T14:26:18.158508Z",
+     "iopub.status.busy": "2024-07-10T14:26:18.157979Z",
+     "iopub.status.idle": "2024-07-10T14:28:19.919640Z",
+     "shell.execute_reply": "2024-07-10T14:28:19.918062Z"
+    },
+    "papermill": {
+     "duration": 121.822666,
+     "end_time": "2024-07-10T14:28:19.949792",
+     "exception": false,
+     "start_time": "2024-07-10T14:26:18.127126",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "AdaBoost Classifier Accuracy (k=50): 0.9971\n"
+     ]
+    }
+   ],
+   "source": [
+    "adaboost = AdaBoostClassifier(n_estimators=50, learning_rate=1.0)\n",
+    "adaboost.fit(X_train_50, y_train)\n",
+    "adaboost_pred = adaboost.predict(X_test_50)\n",
+    "adaboost_accuracy = accuracy_score(y_test, adaboost_pred)\n",
+    "print(f\"AdaBoost Classifier Accuracy (k=50): {adaboost_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 46,
+   "id": "f9ed83c7",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T14:28:20.004149Z",
+     "iopub.status.busy": "2024-07-10T14:28:20.003748Z",
+     "iopub.status.idle": "2024-07-10T14:30:35.530246Z",
+     "shell.execute_reply": "2024-07-10T14:30:35.529017Z"
+    },
+    "papermill": {
+     "duration": 135.582705,
+     "end_time": "2024-07-10T14:30:35.558284",
+     "exception": false,
+     "start_time": "2024-07-10T14:28:19.975579",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "AdaBoost Classifier Accuracy (k=60): 0.9975\n"
+     ]
+    }
+   ],
+   "source": [
+    "adaboost = AdaBoostClassifier(n_estimators=50, learning_rate=1.0)\n",
+    "adaboost.fit(X_train_60, y_train)\n",
+    "adaboost_pred = adaboost.predict(X_test_60)\n",
+    "adaboost_accuracy = accuracy_score(y_test, adaboost_pred)\n",
+    "print(f\"AdaBoost Classifier Accuracy (k=60): {adaboost_accuracy:.4f}\")\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b0326ad1",
+   "metadata": {
+    "papermill": {
+     "duration": 0.024957,
+     "end_time": "2024-07-10T14:30:35.608680",
+     "exception": false,
+     "start_time": "2024-07-10T14:30:35.583723",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "### MLP Classifier"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 47,
+   "id": "e935b78e",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T14:30:35.661745Z",
+     "iopub.status.busy": "2024-07-10T14:30:35.661310Z",
+     "iopub.status.idle": "2024-07-10T14:40:21.463418Z",
+     "shell.execute_reply": "2024-07-10T14:40:21.461666Z"
+    },
+    "papermill": {
+     "duration": 585.889923,
+     "end_time": "2024-07-10T14:40:21.523976",
+     "exception": false,
+     "start_time": "2024-07-10T14:30:35.634053",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "MLP Classifier Accuracy (k=40): 0.9125\n"
+     ]
+    }
+   ],
+   "source": [
+    "mlp = MLPClassifier(hidden_layer_sizes=(100,), max_iter=500)\n",
+    "mlp.fit(X_train_40, y_train)\n",
+    "mlp_pred = mlp.predict(X_test_40)\n",
+    "mlp_accuracy = accuracy_score(y_test, mlp_pred)\n",
+    "print(f\"MLP Classifier Accuracy (k=40): {mlp_accuracy:.4f}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 48,
+   "id": "018bbcfc",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T14:40:21.590873Z",
+     "iopub.status.busy": "2024-07-10T14:40:21.590422Z",
+     "iopub.status.idle": "2024-07-10T14:48:21.212767Z",
+     "shell.execute_reply": "2024-07-10T14:48:21.210824Z"
+    },
+    "papermill": {
+     "duration": 479.713299,
+     "end_time": "2024-07-10T14:48:21.275950",
+     "exception": false,
+     "start_time": "2024-07-10T14:40:21.562651",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "MLP Classifier Accuracy (k=50): 0.9956\n"
+     ]
+    }
+   ],
+   "source": [
+    "mlp = MLPClassifier(hidden_layer_sizes=(100,), max_iter=500)\n",
+    "mlp.fit(X_train_50, y_train)\n",
+    "mlp_pred = mlp.predict(X_test_50)\n",
+    "mlp_accuracy = accuracy_score(y_test, mlp_pred)\n",
+    "print(f\"MLP Classifier Accuracy (k=50): {mlp_accuracy:.4f}\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 49,
+   "id": "ba9a01f1",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2024-07-10T14:48:21.342259Z",
+     "iopub.status.busy": "2024-07-10T14:48:21.341844Z",
+     "iopub.status.idle": "2024-07-10T14:56:53.858862Z",
+     "shell.execute_reply": "2024-07-10T14:56:53.857598Z"
+    },
+    "papermill": {
+     "duration": 512.606259,
+     "end_time": "2024-07-10T14:56:53.920024",
+     "exception": false,
+     "start_time": "2024-07-10T14:48:21.313765",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "MLP Classifier Accuracy (k=60): 0.9959\n"
+     ]
+    }
+   ],
+   "source": [
+    "mlp = MLPClassifier(hidden_layer_sizes=(100,), max_iter=500)\n",
+    "mlp.fit(X_train_60, y_train)\n",
+    "mlp_pred = mlp.predict(X_test_60)\n",
+    "mlp_accuracy = accuracy_score(y_test, mlp_pred)\n",
+    "print(f\"MLP Classifier Accuracy (k=60): {mlp_accuracy:.4f}\")"
+   ]
   }
  ],
  "metadata": {
@@ -4265,14 +4863,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 19.921202,
-   "end_time": "2024-07-10T04:21:51.513057",
+   "duration": 21514.501338,
+   "end_time": "2024-07-10T14:56:54.836339",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-07-10T04:21:31.591855",
+   "start_time": "2024-07-10T08:58:20.335001",
    "version": "2.5.0"
   }
  },
